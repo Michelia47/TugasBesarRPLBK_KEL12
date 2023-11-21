@@ -27,13 +27,13 @@ function AppContent() {
     <Router>
       <Routes>
         <Route path="/" element={isAuthenticated ? <TentangKami /> : <Login />} />
-        <Route path="/RekomendasiDrama" element={<RekomendasiDrama />} />
-        <Route path="/QuotesSoundtrackDrama" element={<QuotesSoundtrackDrama />} />
-        <Route path="/RekomendasiDrama/Drama" element={<Drama />} />
-        <Route path="/RekomendasiDrama/Sinopsis" element={<Sinopsis />} />
-        <Route path="/RekomendasiDrama/Cast" element={<Cast />} />
-        <Route path="/QuotesSoundtrackDrama/Quotes" element={<Quotes />} />
-        <Route path="/QuotesSoundtrackDrama/Soundtrack" element={<Soundtrack />} />
+        <Route path="/RekomendasiDrama" element={isAuthenticated ? <RekomendasiDrama /> : <Login />} />
+        <Route path="/QuotesSoundtrackDrama" element={isAuthenticated ? <QuotesSoundtrackDrama /> : <Login />} />
+        <Route path="/RekomendasiDrama/Drama" element={isAuthenticated ? <Drama /> : <Login />} />
+        <Route path="/RekomendasiDrama/Sinopsis" element={isAuthenticated ? <Sinopsis /> : <Login />} />
+        <Route path="/RekomendasiDrama/Cast" element={isAuthenticated ? <Cast /> : <Login />} />
+        <Route path="/QuotesSoundtrackDrama/Quotes" element={isAuthenticated ? <Quotes /> : <Login />} />
+        <Route path="/QuotesSoundtrackDrama/Soundtrack" element={isAuthenticated ? <Soundtrack /> : <Login />} />
       </Routes>
     </Router>
   );
