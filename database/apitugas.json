@@ -1,0 +1,122 @@
+{
+    "dramas":[
+        {
+            "id": 1,
+            "judul": "A Good Day to Be a Dog",
+            "genre": "Comedy, Romance, Fantasy, Supernatural",
+            "episode": "14",
+            "tahun": "2023",
+            "sinopsis": "Drama ini bercerita tentang Han Hae-na (Park Gyu-young) dan Jin Seo-won (Cha Eun-woo) sebagai seorang guru di sekolah menengah. Han Hae-na (Park Gyu-young) memiliki kutukan yang diturunkan dari leluhurnya karena suatu kesalahan dan harus berubah menjadi anjing. Namun kutukan itu hanya bisa diangkat oleh Jin Seo-won (Cha Eun-woo) yang memiliki trauma dengan anjing.",    
+            "img" : "https://i.mydramalist.com/4ewNdd_4f.jpg",
+            "cast" : "Cha Eun Woo, Park Gyu Young, dan Lee Hyun Woo",
+            "quotes" : "Setiap orang memiliki kisahnya sendiri dan kita semua dapat memiliki rahasia yang kita simpan untuk sendiri.", 
+            "sound" : "Can't Nobody - Woody"      
+        },
+        {
+            "id": 2,
+            "judul": "Strong Girl Namsoon",
+            "genre": "Action, Comedy, Romance, Supernatural",
+            "episode": "16",
+            "tahun": "2023",
+            "sinopsis": "Drama ini bercerita tentang Kang Nam Soon (Lee You Mi) yang memiliki kekuatan super dari ibunya yang bersama dengan Kang Hee Shik (Ong Seong Wu) bersama melawan mafia dan bandar narkoba.",    
+            "img" : "https://i.mydramalist.com/2w4rZP_4f.jpg",
+            "cast" : "Ong Seong Wu, Lee You Mi, Byeon Woo Seok, Kim Jung Eun, dan Kim Hae Sook",
+            "quotes" : "Semua orang butuh sesuatu dan punya kekurangan.",
+            "sound" : "Be Your Love - Junggigo"               
+        },
+        {
+            "id": 3,
+            "judul": "Castaway Diva",
+            "genre": "Music, Comedy, Romance, Life",
+            "episode": "12",
+            "tahun": "2023",
+            "sinopsis": "Drama ini bercerita tentang Seo Mok Ha (Park Eun Bin) yang bermimpi menjadi penyanyi seperti idolanya Yoo Ran Joo (Kim Hyo Jin) namun harus tertunda karena ia terdampar di pulau tak berpenghuni selama 15 tahun. Hingga akhirnya ia ditemukan oleh Kang Woo Hak (Cha Hak Yeon) dan Kang Bo Geol (Chae Jong Hyeop) yang salah satunya adalah teman sekolahnya dulu yang ia cari.",    
+            "img" : "https://i.mydramalist.com/RBWkXP_4f.jpg",
+            "cast" : "Chae Jong Hyeop, Park Eun Bin, Cha Hak Yeon, Kim Hyo Jin, dan Kim Joo Heon",
+            "quotes" : "Jika kita sangat ingin sesuatu, keinginan kita akan terwujud dengan cara yang tak terduga.",
+            "sound" : "Someday - Park Eun Bin"          
+        },
+        {
+            "id": 4,
+            "judul": "The First Responders",
+            "genre": "Action, Drama, Thriller",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang kesatuan gabungan lapangan antara polisi, petugas pemadam kebakaran, dan paramedis yang bekerja sama menanggapi adegan sengit antara kejahatan, bencana dan keadaan darurat.",    
+            "img" : "https://i.mydramalist.com/XnW5J_4s.jpg",
+            "cast" : "Kim Rae Won, Son Ho Jun, dan Gong Seung Yeon",
+            "quotes" : "Jejak tidak berbohong, hanya orang-orang yang melakukannya.", 
+            "sound" : "The Name of You - Sondia"      
+        },
+        {
+            "id": 5,
+            "judul": " If You Wish Upon Me",
+            "genre": "Drama, Life, Medical",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang kehidupan Yoon Gyeo Rye yang sangat sulit dipenuhi dengan banyak hal tidak terduga. Dia tinggal di panti asuhan dan menghabiskan waktu di pusat penahanan remaja dan penjara. Selain itu, dia berjuang untuk memiliki kehidupan yang normal. Namun karena sebuah insiden, ia mulai menjadi sukarelawan di sebuah rumah sakit. Saat berada sana, ia bekerja dengan pemimpin tim sukarelawan Kang Tae Sik dan Perawat Seo Yeon Joo.",    
+            "img" : "https://i.mydramalist.com/q4pyP_4s.jpg",
+            "cast" : "Ji Chang Wook, Choi Soo Young, Sung Dong Il, dan Won Ji An",
+            "quotes" : "Impian bisa saja saat kamu makan sesuatu yang lezat, tertawa dengan temanmu, menerima cinta, atau dihibur seseorang.",
+            "sound" : "Loner - Kim Sung Kyu"      
+        },
+        {
+            "id": 6,
+            "judul": "Cheer Up",
+            "genre": "Comedy, Mystery, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Do Hae-Yi seorang mahasiswa di Universitas Yeonhee. Dia adalah orang yang cerdas dan rajin namun memiliki kondisi ekonomi yang buruk. Suatu hari, ia bergabung dengan klub regu sorak hanya untuk uang. Namun, ia justru mengalami kegembiraan kehidupan kampus dan bertemu dengan berbagi teman baru. Tetapi, tidak hanya kegembiraan, ia harus menghadapi banyak teror selama berada di klub regu sorak tersebut.",    
+            "img" : "https://i.mydramalist.com/xVg8E_4s.jpg",
+            "cast" : "Han Ji Hyun, Park Min Ha, Bae In Hyuk, Kim Hyun Jin, Jang Gyu Ri, Lee Eun Saem, dan Yang Dong Geun",
+            "quotes" : "Berpikirlah positif dan jangan mudah menyerah dalam menjalani hidup.",
+            "sound" : "High - THEIA"                  
+        },
+        {   "id": 7,
+            "judul": "Extraordinary Attorney Woo",
+            "genre": "Comedy, Legal, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Woo Young-Woo yang sangat cerdas dan dia juga memiliki gangguan spektrum autisme. Dia tidak pernah melupakan apa yang dia lihat, tetapi dia kurang dalam keterampilan sosial dan empati. Woo Young-Woo mulai bekerja sebagai pengacara magang di sebuah firma hukum besar. Saat bekerja di sana, dia menghadapi prasangka dan irasionalitas terhadapnya, tetapi dia memecahkan kasus dengan perspektif uniknya sendiri dan tumbuh sebagai pengacara.",    
+            "img" : "https://i.mydramalist.com/dgJJz_4s.jpg",
+            "cast" : "Park Eun-Bin, Kang Tae-Oh, Kang Ki-Young, Jeon Bae-Su, Baek Ji-Won, Jin Kyung, Joo Hyun-Young, Ha Yoon-Kyung, dan Joo Jong-Hyuk",
+            "quotes" : "Meski hanya dengan menatap awan dan menertawakannya, selama mereka tersenyum dan bahagia, itulah yang dinamakan bermain.",
+            "sound" : "Beyong My Dreams - Sun Woo Jung Ah"                   
+        },
+        {
+            "id": 8,
+            "judul": "Once Upon a Small Town",
+            "genre": "Comedy, Romance",
+            "episode": "12",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang pertemuan kembali antara Han Ji Yool yang bekerja sebagai dokter hewan di Seoul dan Ahn Ja Young yang bekerja sebagai petugas polisi di Desa Heedong. Pertemuan mereka diselingi dengan banyak kejadian tak terduga yang membuat mereka terkadang harus bertengkar.",    
+            "img" : "https://i.mydramalist.com/rPj2j_4s.jpg",
+            "cast" : "Joy, Choo Young Woo, Baek Sung Chul, Ha Yul Ri, Jung Suk Yong, dan Baek Ji Won",
+            "quotes" : "Selama kamu tidak melupakan seseorang yang ingin kamu temui, dia akan datang kepadamu seperti hujan atau bahkan angin.",
+            "sound" : "Missing You - Hong Dae Kwang"                            
+        },
+        {   "id": 9,
+            "judul": "Cafe Minamdang",
+            "genre": "Action, Comedy, Crime, Legal, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang Nam Han-Joon yang adalah mantan profiler kriminal, yang sekarang bekerja sebagai penipu. Untuk penipuannya, dia menyamar sebagai peramal dan menjalankan toko peramal Minamdang. Mitra Nam Han-Joon adalah Soo-Cheol dan Nam Hye-Joon. Soo-Cheol menjalankan agen detektif swasta dan Nam Hye-Joon adalah adik perempuan Nam Han-Joon. Di sisi lain ada Han Jae-Hee yang telah bekerja sebagai detektif selama 3 tahun. Entah bagaimana, Han Jae-Hee terlibat dengan Nam Han-Joon.",    
+            "img" : "https://i.mydramalist.com/ZnjVY_4s.jpg",
+            "cast" : "Seo In Guk, Oh Yeon Seo, Kwak Si Yang, Kang Mi Na, dan Kwon Soo Hyun",
+            "quotes" : "Besemangatlah di dunia yang keras ini.",
+            "sound" : "Endless Night - Raina"                   
+        },
+        {
+            "id": 10,
+            "judul": "May I Help You",
+            "genre": "Fantasy, Romance",
+            "episode": "16",
+            "tahun": "2022",
+            "sinopsis": "Drama ini mengisahkan tentang pertemuan antara dua orang dengan prinsip hidup yang berbeda. Baek Dong-Ju yang bekerja sebagai direktur pemakaman. Dia memiliki kemampuan khusus yang memungkinkan dia untuk melihat dan berbicara dengan orang mati. Sedangkan Kim Jib-Sa adalah seorang karyawan di layanan tugas “Ildangbaek” yang melakukan pekerjaan kecil untuk kliennya.",    
+            "img" : "https://i.mydramalist.com/6RqNX_4s.jpg",
+            "cast" : "Hyeri dan Lee Joon Young",
+            "quotes" : "Jika kamu tulus, keinginanmu akan dikabulkan.",
+            "sound" : "A Fine Day - Lee Jun Young"        
+        }
+    ]
+}

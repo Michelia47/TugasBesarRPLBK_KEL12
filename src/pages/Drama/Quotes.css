@@ -1,0 +1,12 @@
+p {
+  padding: 0;
+  margin: 0;
+}
+   
+#movies3 {
+  padding: 20px 0 20px 40px;
+  color:black;
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: Verdana;
+}
